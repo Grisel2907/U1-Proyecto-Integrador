@@ -149,6 +149,8 @@ dialog = ft.AlertDialog(
 . Confirma visualmente la información registrada.
 
 . Limpia los campos automáticamente al cerrarse.
+
+
 <img width="347" height="432" alt="Captura4" src="https://github.com/user-attachments/assets/32ce5e39-e61b-44f2-9703-3d7ff6d32c42" />
 
 ---
